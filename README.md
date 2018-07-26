@@ -20,5 +20,5 @@
   开/关 MIC 命令来判断当前数据包为哪个 ID 号的话筒数据（ TCP 连
   接，端口号为10166， IP 地址为192.168.10.100）；
   
-![image](https://github.com/ZhangSanFengByGit/image_folder/protocal.png)
+![image](https://github.com/ZhangSanFengByGit/image_folder/blob/master/protocal.png)
   
