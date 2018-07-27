@@ -1,6 +1,6 @@
 # SoundSystemUdp_Reciver
 数字会议系统语音文件 第三方主机存储demo
-
+（目前版本已经支持 Windows Linux 双系统环境编译~~~ ）
 
 需要使用到 windows   C++  自带的socket  Lib
 默认 组播地址224.1.1.11  端口号 1000
